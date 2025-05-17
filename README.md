@@ -5,7 +5,7 @@ A visually stunning, interactive parallax scrolling animation inspired by nature
 Originally crafted by isladjan, adapted and enhanced for educational and creative exploration.
 
 ---
-Visit [Day_and_Night](https://pages.github.com/).
+Visit [Day_and_Night](https://hariomsinghalpuri.github.io/Day_and_Night/)
 ---
 ## ✨ Demo
 
